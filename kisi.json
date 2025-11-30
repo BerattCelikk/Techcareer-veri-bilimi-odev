@@ -1,0 +1,10 @@
+{
+    "isim": "Ahmet",
+    "yas": 30,
+    "sehir": "İstanbul",
+    "hobiler": [
+        "futbol",
+        "kitap okuma",
+        "yüzme"
+    ]
+}
